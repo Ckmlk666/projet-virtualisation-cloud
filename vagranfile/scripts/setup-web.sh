@@ -16,7 +16,7 @@ php composer-setup.php --install-dir=/usr/local/bin --filename=composer
 # 3. Préparation du répertoire Web
 # (Tu remplaceras l'URL par le vrai lien de ton dépôt Git de l'application Laravel)
 # cd /var/www/html
-# git clone https://github.com/TonUtilisateur/TonProjetLaravel.git espace_explorer
+# git clone https://github.com/Ckmlk666/projet-virtualisation-cloud.git
 # chown -R www-data:www-data /var/www/html/espace_explorer
 
 # 4. Démarrage et activation de Nginx
